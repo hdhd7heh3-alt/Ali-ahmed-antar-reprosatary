@@ -1,0 +1,84 @@
+﻿Report document 
+
+
+
+
+
+
+Found what:
+Missing value
+duplicates
+Text inconsistency
+Invalid member id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wich column:
+Missing values was in every column
+Duplicates was in 47 column
+In all
+In member_id column
+
+
+
+
+
+
+
+
+
+
+
+
+Effected how many row:
+Im missing value
+​return_date: 91 
+​grade: 62 
+​publication_year: 60 
+​join_date: 31 
+​بقية الأعمدة (first_name, last_name, neighborhood, genre,And so on
+Duplicates was 8 rows
+Member id in 107 row
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How you solved and why
+Missing value solved by replacing them with the write replacement
+And duplicated was solved by dropping them 
+And text was soling by puting only one text ni similar 
+And missing member id was replaced with the word (not regestird)
