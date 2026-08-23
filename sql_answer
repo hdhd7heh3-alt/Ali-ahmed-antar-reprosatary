@@ -1,0 +1,153 @@
+Q1: [first_name	last_name	books_borrowed
+0	Aya	Wahba	25
+1	Sherif	Saleh	21
+2	Ziad	Saleh	19
+3	Nour	Nabil	18
+4	Mostafa	Fouad	18
+5	Ahmed	Shafik	17
+6	Youssef	Hegazy	17
+7	Adam	Fahmy	17
+8	Reem	Osman	16
+9	Sara	Rashad	16
+10	Seif	Zaki	14
+11	Fares	Adel	11
+12	Ahmed	Fahmy	10
+13	Rana	Osman	10
+14	Bassel	Hegazy	9
+15	Malak	Fahmy	9
+16	Ziad	Fahmy	8
+17	Dina	Rashad	7
+18	Rana	Fouad	7
+19	Lina	Halim	7
+20	Tarek	Adel	7
+21	Dina	Wahba	7
+22	Youssef	Fouad	6
+23	Nada	Zaki	6
+24	Retaj	Fahmy	6
+25	Layla	Hegazy	6
+26	Lina	Rashad	6
+27	Adam	Shafik	5
+28	Youssef	Halim	3
+29	Sherif	Fouad	3
+30	Hamza	Sabry	3
+31	Mostafa	Wahba	3
+32	Nada	Saleh	3
+33	Hassan	Adel	3
+34	Lina	Mansour	3
+35	Aya	Ibrahim	3
+36	Ahmed	Zaki	3
+37	Fares	Saleh	2
+38	Menna	Halim	2
+39	Ziad	Fouad	2
+40	Adam	Badr	2
+41	Retaj	Kamel	2
+42	Nada	Riad	2
+43	Dina	Adel	2
+44	Nada	Rashad	2
+45	Mostafa	Kamel	2
+46	Layla	Wahba	2
+47	Jana	Hegazy	2
+48	Yassin	Kamel	2
+49	Mostafa	Saleh	2
+50	Bassel	Wahba	2
+51	Salma	Ibrahim	1
+52	Layla	Mansour	1
+53	Hassan	Saleh	1
+54	Habiba	Nabil	1
+55	Hassan	Rashad	1
+56	Ali	Fahmy	1
+57	Karim	Fahmy	1
+58	Lina	Zaki	1
+59	Amir	Fouad	1
+60	Ahmed	Gamal	1
+61	Retaj	Adel	1
+62	Fares	Wahba	0
+63	Ali	Hegazy	0
+64	Fares	Fouad	0
+65	Hana	Nabil	0
+66	Rana	Kamel	0
+67	Marwan	Wahba	0
+68	Mai	Mansour	0
+69	Fares	Fahmy	0
+70	Rana	Halim	0
+71	Sherif	Fahmy	0
+72	Youssef	Kamel	0
+73	Karim	Rashad	0
+74	Farida	Osman	0
+75	Layla	Fouad	0
+76	Fares	Sabry	0
+77	Amir	Wahba	0
+78	Bassel	Adel	0
+79	Habiba	Osman	0
+]
+Q2: [    book_id                    title          author
+0       501          The Silver Kite   Amina Darwish
+1       503        The Lantern Maker    Adel Roushdy
+2       506      The Paper Boat Club       Aya Hafez
+3       508    The Quiet Observatory     Dalia Serry
+4       510    The Missing Metronome     Diaa Sultan
+5       512   The Cartographer's Cat    Farida Anwar
+6       514    The Robot in Row Nine    Galal Mounir
+7       516  The Beekeeper's Almanac      Hoda Bakry
+8       518     The Ninth Lighthouse     Hani Nagati
+9       520     The Copper Telescope  Jasmine Wahdan
+10      522      The Puzzle Merchant      Karim Elwy
+11      524    The Weaver's Daughter    Laila Shokry
+12      526    The Clockwork Orchard   Mahmoud Rafei
+13      528        The Glass Beehive  Mona Kholoussy
+14      530        The Sandstone Key    Sara Tantawy
+15      532        The Last Bookmark     Samir Zohdy]
+Q3: [    book_id  total_checkouts
+0       501               57
+1       507               55
+2       513               46
+3       519               38
+4       525               25
+5       506               14
+6       529               12
+7       516               12
+8       509                9
+9       532                8
+10      522                8
+11      520                8
+12      518                8
+13      511                8
+14      510                8
+15      505                8
+16      503                8
+17      528                7
+18      502                7
+19      521                6
+20      514                6
+21      530                5
+22      517                5
+23      515                5
+24      527                4
+25      512                4
+26      526                3
+27      524                3
+28      531                2
+29      523                1
+30      508                1]
+Q4: [   member_id  total_checkouts
+0       1034               25
+1       1044               21
+2       1008               19
+3       1027               18
+4       1010               18
+5       1065               17
+6       1024               17
+7       1018               17
+8       1047               16
+9       1030               16]
+Q5: [   checkout_id  book_id  member_id checkout_date neighborhood
+0         9144      501       1024    2025-11-07    Nasr City
+1         9375      525       1034    2025-10-27    Nasr City
+2         9376      518       1024    2025-10-22    Nasr City
+3         9185      519       1026    2025-10-22    Nasr City
+4         9170      522       1034    2025-10-16    Nasr City
+5         9124      525       1024    2025-10-14    Nasr City
+6         9150      507       1024    2025-10-14    Nasr City
+7         9161      519       1040    2025-10-11    Nasr City
+8         9147      512       1028    2025-10-05    Nasr City
+9         9143      518       1024    2025-10-02    Nasr City]
